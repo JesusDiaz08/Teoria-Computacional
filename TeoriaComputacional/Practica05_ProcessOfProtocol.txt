@@ -1,0 +1,8 @@
+start-- OFF --->start
+start-- ON --->ready
+ready--->sending
+start-- OFF --->start
+start-- ON --->ready
+ready--->sending
+start-- ON --->ready
+ready--->sending

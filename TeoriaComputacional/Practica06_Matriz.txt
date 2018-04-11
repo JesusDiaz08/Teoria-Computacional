@@ -1,0 +1,8 @@
+String read: 00101
+
+q0	X	X	X	X	X	 
+q0	q1	X	X	X	X	 
+q0	X	q1	X	X	X	 
+q0	X	q2	X	X	X	 
+q0	X	X	q1	X	X	 
+q0	X	X	q2	X	X	 

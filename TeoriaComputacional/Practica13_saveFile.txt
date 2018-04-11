@@ -1,0 +1,8 @@
+(RB
+((RRB
+(()RB
+(())B
+(())(RB
+(())()B
+(())()
+Parentheses balanced
